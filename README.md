@@ -10,6 +10,11 @@
 - 🥅 2021 Goals: Make people to read more books
 - ⚡ Fun fact: I love to learn new tech and amazing stuff
 - 📫 How to reach me - kunalsingh17035@gmail.com
+
+<br />
+
+---
+
 ### Connect with me:
 
 [<img align="left"  width="40px" src="https://i.postimg.cc/rFvnCtHt/index.png" />][website]
