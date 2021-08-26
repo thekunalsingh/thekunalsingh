@@ -54,6 +54,9 @@
 <img align="left" alt="android studio" img src="https://i.postimg.cc/02LmhS0V/download.jpg" height = "50" width = "50"/>
 <img align="left" alt="Terminal" width="50px" src="https://i.postimg.cc/tgZbcyg1/index.png" />
 <img align="left" alt="postman" width="50px" src="https://i.postimg.cc/Xvms26ZY/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8.png" />
+<img align="left" alt="ubuntu Linux" width="50px" src="https://i.postimg.cc/90v3vXW8/index.png" />
+<img align="left" alt="kali Linux" width="50px" src="https://i.postimg.cc/QMyrpJ2Z/index.jpg" />
+
 
 <br> </br>
 ---
