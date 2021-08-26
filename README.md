@@ -61,6 +61,7 @@
 
 <br> </br>
 ---
+<img align="center" alt="mavyaX" width="100%" src="https://i.postimg.cc/wTTwDRp9/mavyaxtech.png" />
 
 [website]: https://www.mavyax.com/
 [twitter]: https://twitter.com/kunal_mavyaX
