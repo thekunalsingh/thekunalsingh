@@ -58,7 +58,7 @@
 <img align="left" alt="java" img src="https://i.postimg.cc/fR3WGY2T/icon-java-6.jpg" height = "50" width = "50"/>
 <img align="left" alt="python" img src="https://i.postimg.cc/XY0GkH76/python-104451.png" height = "50" width = "50"/> 
 
-</br>
+<br> </br>
 
 ---
 
