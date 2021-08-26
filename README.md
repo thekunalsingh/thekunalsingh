@@ -18,9 +18,8 @@
 ## Roles i play in my life!!
 
 - 🤵 StartUP founder
-- 🤵🏻 StartUP finacial consultant
+- 🤵🏻 StartUP finance consultant
 - 🤵🏻 Fund manager
-- 🤵🏻 stocks trader
 - 🤵🏻 stocks trader
 - 🙌🏻 philanthropist
 - 👨‍💻 Game Dev
