@@ -1,5 +1,6 @@
 ### Hi there, I'm Kunal singh 👋
 ---
+<img align="right" img src="https://media.giphy.com/media/YSqfSiVCSrF5vpXR8J/giphy-downsized-large.gif?cid=ecf05e47pmkyqwfe3v3aq7pi7uumvngzoz1odil6hzjc1n7y&rid=giphy-downsized-large.gif&ct=g" height = "350" width = "350"/>  
 
 ## I'm a Founder, Developer, and financial expert!!
 
