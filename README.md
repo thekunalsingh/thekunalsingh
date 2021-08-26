@@ -30,8 +30,10 @@
 - 👨‍💻 App developer
 - 👨‍💻 system administrator
 
+<img align="right" img src="https://media.giphy.com/media/jfF6mIPumEzN9QW0kL/giphy.gif?cid=ecf05e47hebn4islkef7c8y3qvpmwvpr9zxscv6fzjit9lra&rid=giphy.gif&ct=g" height = "350" width = "350"/> 
+
 <br />
-<img align="right" img src="https://media.giphy.com/media/jfF6mIPumEzN9QW0kL/giphy.gif?cid=ecf05e47hebn4islkef7c8y3qvpmwvpr9zxscv6fzjit9lra&rid=giphy.gif&ct=g" height = "350" width = "350"/>  
+ 
 ---
 
 ### Connect with me:
