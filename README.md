@@ -31,7 +31,9 @@
 <img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="dart" img src="https://i.postimg.cc/sf5Cr438/Yr-pWI4G.jpg" height = "50" width = "50"/>
-<img align="left" alt="java" img src="https://i.postimg.cc/fR3WGY2T/icon-java-6.jpg" height = "50" width = "50"/> 
+<img align="left" alt="java" img src="https://i.postimg.cc/fR3WGY2T/icon-java-6.jpg" height = "50" width = "50"/>
+<img align="left" alt="python" img src="https://i.postimg.cc/XY0GkH76/python-104451.png" height = "50" width = "50"/> 
+
 
 
 
