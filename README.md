@@ -5,7 +5,8 @@
 ## I'm a Founder, Developer, and financial expert!!
 
 - 🔭 Founded mavyaX tech
-- 🌱 I’m currently learning everything 🤣
+- 🤵 working on tech since 2017
+- 🌱 I’m currently learning AI/ML
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Make people to read more books
 - ⚡ Fun fact: I love to learn new tech and amazing stuff
@@ -13,6 +14,21 @@
 
 <br />
 
+---
+## Roles i play in my life!!
+
+🤵🏻 StartUP founder
+🤵🏻 StartUP finacial consultant
+🤵🏻 Fund manager
+🤵🏻 stocks trader
+🙌🏻 philanthropist
+👨‍💻 Game Dev
+👨‍💻 Web dev
+👨‍💻 pentester
+👨‍💻 App developer
+👨‍💻 system administrator
+
+<br />
 ---
 
 ### Connect with me:
@@ -40,10 +56,7 @@
 <img align="left" alt="java" img src="https://i.postimg.cc/fR3WGY2T/icon-java-6.jpg" height = "50" width = "50"/>
 <img align="left" alt="python" img src="https://i.postimg.cc/XY0GkH76/python-104451.png" height = "50" width = "50"/> 
 
-
-
-
-<br> </br>
+</br>
 
 ---
 
