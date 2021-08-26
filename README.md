@@ -11,9 +11,9 @@
 - 📫 How to reach me - kunalsingh17035@gmail.com
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left"  width="40px" src="https://i.postimg.cc/rFvnCtHt/index.png" />][website]
+[<img align="left" alt=" Twitter" width="40px" src="https://i.postimg.cc/J42Vwn21/124021.png" />][twitter]
+[<img align="left" alt=" LinkedIn" width="40px" src="https://i.postimg.cc/jjCbwfnn/174857.png" />][linkedin]
 
 <br />
 
