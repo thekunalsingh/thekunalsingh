@@ -17,16 +17,17 @@
 ---
 ## Roles i play in my life!!
 
-🤵🏻 StartUP founder
-🤵🏻 StartUP finacial consultant
-🤵🏻 Fund manager
-🤵🏻 stocks trader
-🙌🏻 philanthropist
-👨‍💻 Game Dev
-👨‍💻 Web dev
-👨‍💻 pentester
-👨‍💻 App developer
-👨‍💻 system administrator
+- 🤵 StartUP founder
+- 🤵🏻 StartUP finacial consultant
+- 🤵🏻 Fund manager
+- 🤵🏻 stocks trader
+- 🤵🏻 stocks trader
+- 🙌🏻 philanthropist
+- 👨‍💻 Game Dev
+- 👨‍💻 Web dev
+- 👨‍💻 pentester
+- 👨‍💻 App developer
+- 👨‍💻 system administrator
 
 <br />
 ---
@@ -70,6 +71,8 @@
 <img align="left" alt="ubuntu Linux" width="50px" src="https://i.postimg.cc/90v3vXW8/index.png" />
 <img align="left" alt="kali Linux" width="50px" src="https://i.postimg.cc/QMyrpJ2Z/index.jpg" />
 <img align="left" alt="unity" width="50px" src="https://i.postimg.cc/YqkJZSBP/index.png" />
+<img align="left" alt="electron" width="50px" src="https://i.postimg.cc/s2QWzsRF/index.png" />
+
 
 
 <br> </br>
