@@ -20,7 +20,6 @@
 ## Roles i play in my life!!
 
 - 🤵 StartUP founder
-- 🙌🏻 philanthropist
 - 👨‍💻 Web dev
 - 👨‍💻 App developer
 - 👨‍💻 system administrator
