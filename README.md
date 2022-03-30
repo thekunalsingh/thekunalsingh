@@ -4,7 +4,7 @@
 
 ## Developer!!
 
-- 🔭 Founded mavyaX tech
+- 🔭 Founded mavyaX 
 - 🤵 working on tech since 2017
 - 🌱 I’m currently learning AI/ML
 - 👯 I’m looking to collaborate with other developers
