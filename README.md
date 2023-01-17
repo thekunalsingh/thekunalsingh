@@ -8,7 +8,7 @@
 - 🤵 working on tech since 2017
 - 🌱 I’m currently learning AI/ML
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Make people to read more books
+- 🥅 2023 Goals: Make people to read more books
 - ⚡ Fun fact: I love to learn new tech and amazing stuff
 - 📫 How to reach me - kunalsingh17035@gmail.com
 
@@ -22,7 +22,6 @@
 - 🤵 StartUP founder
 - 👨‍💻 Web dev
 - 👨‍💻 App developer
-- 👨‍💻 system administrator
 
 <br />
  
