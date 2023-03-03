@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Make people to read more books
 - ⚡ Fun fact: I love to learn new tech and amazing stuff
-- 📫 How to reach me - kunalsingh17035@gmail.com
+- 📫 How to reach me - kunalswork@yahoo.com
 
 <br />
 
