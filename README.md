@@ -5,7 +5,7 @@
 ## Developer!!
 
 - 🔭 Founded mavyaX 
-- 🤵 working on tech since 2017
+- 🤵 working on tech since 2020
 - 🌱 I’m currently learning AI/ML
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Make people to read more books
