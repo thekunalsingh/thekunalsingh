@@ -75,7 +75,7 @@
 ---
 
 ### My Love ❤️ ❤️ 
-<img align="center" alt="mavyaX" width="100%" src="https://i.postimg.cc/wTTwDRp9/mavyaxtech.png" />
+<img align="center" alt="mavyaX" width="100%" src="https://i.postimg.cc/ht651XWD/EASEMITH-mavyax.jpg" />
 
 [website]: https://kunalsingh.tech/
 [twitter]: https://twitter.com/kunal_mavyaX
